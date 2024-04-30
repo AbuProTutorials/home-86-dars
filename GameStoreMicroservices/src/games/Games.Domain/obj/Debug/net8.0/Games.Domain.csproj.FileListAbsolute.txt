@@ -1,0 +1,11 @@
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\bin\Debug\net8.0\Games.Domain.deps.json
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\bin\Debug\net8.0\Games.Domain.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\bin\Debug\net8.0\Games.Domain.pdb
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\obj\Debug\net8.0\Games.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\obj\Debug\net8.0\Games.Domain.AssemblyInfoInputs.cache
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\obj\Debug\net8.0\Games.Domain.AssemblyInfo.cs
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\obj\Debug\net8.0\Games.Domain.csproj.CoreCompileInputs.cache
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\obj\Debug\net8.0\Games.Domain.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\obj\Debug\net8.0\refint\Games.Domain.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\obj\Debug\net8.0\Games.Domain.pdb
+D:\BackEndTerritory\GameStoreMicroservices\src\games\Games.Domain\obj\Debug\net8.0\ref\Games.Domain.dll

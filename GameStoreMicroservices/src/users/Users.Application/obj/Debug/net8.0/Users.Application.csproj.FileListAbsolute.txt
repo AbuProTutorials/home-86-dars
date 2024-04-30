@@ -1,0 +1,15 @@
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\bin\Debug\net8.0\Users.Application.deps.json
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\bin\Debug\net8.0\Users.Application.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\bin\Debug\net8.0\Users.Application.pdb
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\bin\Debug\net8.0\Users.Domain.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\bin\Debug\net8.0\Users.Domain.pdb
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\Users.Application.csproj.AssemblyReference.cache
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\Users.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\Users.Application.AssemblyInfoInputs.cache
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\Users.Application.AssemblyInfo.cs
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\Users.Application.csproj.CoreCompileInputs.cache
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\Users.Application.csproj.CopyComplete
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\Users.Application.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\refint\Users.Application.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\Users.Application.pdb
+D:\BackEndTerritory\GameStoreMicroservices\src\users\Users.Application\obj\Debug\net8.0\ref\Users.Application.dll

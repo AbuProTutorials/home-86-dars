@@ -1,0 +1,11 @@
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\obj\Debug\net8.0\Advertisements.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\obj\Debug\net8.0\Advertisements.Domain.AssemblyInfoInputs.cache
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\obj\Debug\net8.0\Advertisements.Domain.AssemblyInfo.cs
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\obj\Debug\net8.0\Advertisements.Domain.csproj.CoreCompileInputs.cache
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\bin\Debug\net8.0\Advertisements.Domain.deps.json
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\bin\Debug\net8.0\Advertisements.Domain.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\bin\Debug\net8.0\Advertisements.Domain.pdb
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\obj\Debug\net8.0\Advertisements.Domain.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\obj\Debug\net8.0\refint\Advertisements.Domain.dll
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\obj\Debug\net8.0\Advertisements.Domain.pdb
+D:\BackEndTerritory\GameStoreMicroservices\src\advertisments\Advertisements.Domain\obj\Debug\net8.0\ref\Advertisements.Domain.dll
